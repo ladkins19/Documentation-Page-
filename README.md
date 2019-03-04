@@ -1,3 +1,5 @@
+theme: jekyll-theme-cayman
+
 # Documentation Page
 
 This is my Github page where I will provide the documentation for my project.
