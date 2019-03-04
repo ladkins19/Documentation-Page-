@@ -17,6 +17,6 @@ a naturally occuring, microscopic, cell.
 
 ### **Things to do (tentative)**
 
--[] Research Building Living Cells
--[] Test Different Materials
--[] Create Graphics for Speculative Results 
+- [ ] Research Building Living Cells
+- [ ] Test Different Materials
+- [ ] Create Graphics for Speculative Results 
