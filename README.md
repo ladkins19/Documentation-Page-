@@ -1,4 +1,4 @@
-# Documentation-Page-
+# Documentation Page
 
 This is my Github page where I will provide the documentation for my project.
 
@@ -6,7 +6,7 @@ I will also post pictures and transcribe my personal handwritten notes to this p
 
 
 
-My tentative project title will be "Feeling Cells”.
+## **My tentative project title will be "Feeling Cells”.**
 
 My project will aim to understand and recreate on a much larger scale the materials within a eukaryotic cell, 
 and the cell itself so that it can be held and felt with human-sized hands. 
