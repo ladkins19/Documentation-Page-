@@ -23,3 +23,7 @@ a naturally occuring, microscopic, cell.
 - [ ] Test Different Materials
 - [ ] Create Graphics for Speculative Results 
 
+index.html 
+       Title
+       "Lauren's Documentation Blog"
+       
