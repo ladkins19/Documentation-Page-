@@ -38,7 +38,7 @@ UPDATE: The undertaking of growing living cell is too large for my means. Instea
 
 - [ ] Test Different Components 
 
-### Cookbook for Material 
+### Cookbook for Materials 
 
 ##### First Material
 - [ ] 8 oz of glue
