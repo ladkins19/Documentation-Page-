@@ -21,10 +21,23 @@ and the cell itself so that it can be held and felt with human-sized hands.
 I have even cosidered what it might take to grow a living cell, rather than recreating a large synthetic version of 
 a naturally occuring, microscopic, cell.
 
+UPDATE: The undertaking of growing a living cell is too large for my means. Instead, I have being focusing totally on theoretical modeling.
+
 ### **Things to do (tentative)**
 
-- [ ] Research Building Living Cells
+- [ ] Research Disecting Living Cells
 - [ ] Test Different Materials
-- [ ] Create Graphics for Speculative Results 
+- [ ] Test Different Components 
 
-       
+### Cookbook for Material 
+
+##### First Material
+- [ ] 8 oz of glue
+- [ ] 8 oz of water
+- [ ] 1/2 teaspoon of sodium borate
+
+##### Second Material
+- [ ] 8 oz of glue
+- [ ] 10 oz of water
+- [ ] 1/2 teaspoon of sodium borate
+
