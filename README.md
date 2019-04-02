@@ -33,8 +33,9 @@ UPDATE: The undertaking of growing living cell is too large for my means. Instea
 
 ### **Things to do (tentative)**
 
-- [ ] Research Disecting Living Cells
-- [ ] Test Different Materials
+- [X] Research Disecting Living Cells
+- [X] Test Different Materials
+
 - [ ] Test Different Components 
 
 ### Cookbook for Material 
