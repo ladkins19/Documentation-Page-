@@ -13,7 +13,7 @@ I will also post pictures and transcribe my personal handwritten notes to this p
 
 
 ## **My project title will be "Feeling Cells”.**
-
+Picture1.png
 My project will aim to understand and recreate _on a much larger scale_ the materials within a eukaryotic cell, 
 and the cell itself so that it can be held and felt with human-sized hands. 
 
@@ -36,8 +36,7 @@ UPDATE: The undertaking of growing a living cell is too large for my means. Inst
 - [ ] 8 oz of water
 - [ ] 1/2 teaspoon of sodium borate
 
-RESULTS : ![alt text](https://github.com/ladkins19/Lab-Visit/blob/master/Picture1.png)
-
+RESULTS : ![alt text](https://github.com/ladkins19/Laurens-Github/blob/master/IMG_2439.MOV)
 
 ##### Second Material
 - [ ] 8 oz of glue
