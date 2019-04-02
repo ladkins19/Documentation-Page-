@@ -13,7 +13,7 @@ I will also post pictures and transcribe my personal handwritten notes to this p
 
 
 ## **My project title will be "Feeling Cells”.**
-Picture1.png
+
 My project will aim to understand and recreate _on a much larger scale_ the materials within a eukaryotic cell, 
 and the cell itself so that it can be held and felt with human-sized hands. 
 
