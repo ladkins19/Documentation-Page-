@@ -37,10 +37,12 @@ UPDATE: The undertaking of growing living cell is too large for my means. Instea
 - [ ] 1/2 teaspoon of sodium borate
 
 RESULTS : 
-![alt text](https://github.com/ladkins19/Laurens-Github/blob/master/IMG_2453.JPG)
+![alt text](https://github.com/ladkins19/Laurens-Github/blob/master/TARmG85xR6yCaa%25gj4wHAw.jpg)
 
 ##### Second Material
 - [ ] 8 oz of glue
 - [ ] 10 oz of water
 - [ ] 1/2 teaspoon of sodium borate
 
+RESULTS:
+![alt text](https://github.com/ladkins19/Laurens-Github/blob/master/K7jEVouqTLC%25r%25aeUqqMOw.jpg)
